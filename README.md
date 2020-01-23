@@ -1,0 +1,2 @@
+# FaceRecognition
+This repository has code to recognise unknown image from the known samples given. Here I kept two folders called known and unknown and put respective images in it. In this fac_rec.py is main script which contains all code, first I loaded name of known images in list then in detect_image variable you can pass unknown image name which you want to recognise. I kept every person's known file so it can use that sample to match it.
